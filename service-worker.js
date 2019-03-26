@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cde1c1cbdce39af758f30aedf06d5919.js"
+  "/precache-manifest.3e8a33a8751cd2ae7bad279116769cfc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ghostdir"});
